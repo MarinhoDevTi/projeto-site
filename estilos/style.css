@@ -4,11 +4,13 @@
 }
 
 body {
-    background-color: rgb(114, 047, 055);
+    background-image: url("https://scontent.frvd2-1.fna.fbcdn.net/v/t1.0-9/70384038_164603328046898_531085848750325760_n.jpg?_nc_cat=101&ccb=2&_nc_sid=8bfeb9&_nc_eui2=AeGtW5XgDv9a6eS7urYPtBRpGy7mLCF-Fy4bLuYsIX4XLu_8xGcSg-GXiD2-Q0X1yaNBq1RU_qYre72tGQ-k3aCr&_nc_ohc=bVBazfLmcpoAX8H9fqs&_nc_ht=scontent.frvd2-1.fna&oh=14142a64bd3d46a42bfabf524048ae81&oe=5FC17633");
+
+    position: absolute;
 }
 
 main {
-    background-color: white;
+    background-color: rgba(0, 255, 0 );
     width: 500px;
     margin: auto;
     padding: 10px;
